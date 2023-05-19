@@ -3,7 +3,7 @@ package products
 import (
 	"bufio"
 	"fmt"
-	"github.com/Sortren/go-routines/products-weight-calc/pkg/files"
+	"github.com/Sortren/go-routines/pkg/files"
 	"log"
 	"strconv"
 	"strings"
